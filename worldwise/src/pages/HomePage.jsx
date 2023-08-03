@@ -1,7 +1,6 @@
 import { Link } from "react-router-dom";
 import styles from "./Homepage.module.css";
 import PageNav from "../components/PageNav";
-import Spinner from "../components/Spinner";
 
 export default function Homepage() {
   return (
